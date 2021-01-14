@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+ul{
+	float: center;
+	list-style-type: none;
+	margin-top: 30px;
+	font-size: 23px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: darkblue;
+	padding: 5px 21px;
+	border: none;
+	transition: 0.6 ease;
+	background-color: transparent;
+	font-weight: bold;
+}
+body{
+	background-image: url(iimg.gif);
+	color: red;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+h2{
+	font-weight: bold;
+	font-size: 90px;
+	font-family: cursive;
+}
